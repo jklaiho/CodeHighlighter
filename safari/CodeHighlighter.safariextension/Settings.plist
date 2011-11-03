@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DefaultValue</key>
+		<string>default</string>
+		<key>Key</key>
+		<string>theme</string>
+		<key>Title</key>
+		<string>Highlight.js Theme</string>
+		<key>Titles</key>
+		<array>
+			<string>Arta</string>
+			<string>Ascetic</string>
+			<string>Dark</string>
+			<string>Default</string>
+			<string>FAR</string>
+			<string>GitHub</string>
+			<string>IntelliJ Idea</string>
+			<string>IR_Black</string>
+			<string>Magula</string>
+			<string>Solarized Dark</string>
+			<string>Solarized Light</string>
+			<string>Sunburst</string>
+			<string>Visual Studio</string>
+			<string>Zenburn</string>
+		</array>
+		<key>Type</key>
+		<string>ListBox</string>
+		<key>Values</key>
+		<array>
+			<string>arta</string>
+			<string>ascetic</string>
+			<string>dark</string>
+			<string>default</string>
+			<string>far</string>
+			<string>github</string>
+			<string>idea</string>
+			<string>ir_black</string>
+			<string>magula</string>
+			<string>solarized_dark</string>
+			<string>solarized_light</string>
+			<string>sunburst</string>
+			<string>vs</string>
+			<string>zenburn</string>
+		</array>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>Monaco, Courier,Consolas,monospace</string>
+		<key>Key</key>
+		<string>font-family</string>
+		<key>Title</key>
+		<string>CSS font-family</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+	<dict>
+		<key>DefaultValue</key>
+		<string>100%</string>
+		<key>Key</key>
+		<string>font-size</string>
+		<key>Title</key>
+		<string>CSS font-size</string>
+		<key>Type</key>
+		<string>TextField</string>
+	</dict>
+</array>
+</plist>
